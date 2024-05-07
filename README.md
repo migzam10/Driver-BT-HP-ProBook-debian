@@ -1,5 +1,5 @@
-# Bluetooth HP ProBook 4430s debian Linux
-En este repo dejo compilacion de archivos de bluetooth de GNU/Linux Debian en HP Probook 4430s segun placa: <br>
+#Driver Bluetooth HP ProBook 4430s debian Linux
+En este repo dejo Driver de compilacion de bluetooth de GNU/Linux Debian en HP Probook 4430s segun placa: <br>
 `Qualcomm Atheros Communications AR3011 Bluetooth` <br>
 `24:00.0 Network controller: Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) (rev 01)`<br>
 `25:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 06)`<br>
